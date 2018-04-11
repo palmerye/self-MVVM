@@ -1,0 +1,22 @@
+{
+  "name": "self-mvvm",
+  "version": "1.0.0",
+  "description": "This is a simple MVVM framework of imitating Vue.js by myself, be improving day by day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmerye/self-MVVM.git"
+  },
+  "keywords": [
+    "MVVM"
+  ],
+  "author": "palmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palmerye/self-MVVM/issues"
+  },
+  "homepage": "https://github.com/palmerye/self-MVVM#readme"
+}
